@@ -5,6 +5,7 @@ This features set was implemented in my following works:
 2. Huy Phan, Marco Maass, Radoslaw Mazur, and Alfred Mertins, "Random Regression Forests for Acoustic Event Detection and Classification," IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP): 23(1), pp. 20-31, January 2015
 3. Huy Phan, Marco Maass, Radoslaw Mazur, and Alfred Mertins, "Acoustic Event Detection and Localization with Regression Forests," INTERSPEECH 2014, Singapore, September 2014
 4. Huy Phan and Alfred Mertins, "Exploring Superframe Co-occurrence for Acoustic Event Recognition," EUSIPCO 2014, Lisbon, Portugal, September 2014
+5. Huy Phan and Alfred Mertins, "A Voting-based Technique for Acoustic Event-Specific Detection," DAGA 2014, Oldenburg, Germany, March 2014
   
 These features were re-implemented based on the work of Temko et al.
 
