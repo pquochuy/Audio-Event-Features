@@ -20,9 +20,9 @@ This features set was implemented in my following works:
 These features were re-implemented based on the work of Temko et al.
 
 1. CLEAR evaluation of acoustic event detection and classification systems
-A. Temko, R. Malkin, C. Zieger, D. Macho, C. Nadeu and M. Omologo
-Lecture Notes in Computer Science, vol. 4122, pp. 311–322, 2007
+  A. Temko, R. Malkin, C. Zieger, D. Macho, C. Nadeu and M. Omologo
+  Lecture Notes in Computer Science, vol. 4122, pp. 311–322, 2007
 
 2. Acoustic event detection: SVM-based system and evaluation setup in CLEAR’07
-A. Temko, C. Nadeu, and J.-I. Biel
-Lecture Notes in Computer Science, vol. 4625, pp. 354–363, 2008.
+  A. Temko, C. Nadeu, and J.-I. Biel
+  Lecture Notes in Computer Science, vol. 4625, pp. 354–363, 2008.
